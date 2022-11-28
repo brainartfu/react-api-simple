@@ -2,13 +2,13 @@
 
 - Clone Repo
   ```bash
-  git clone https://github.com/SnehalAgrawal/about-react-dummy-apis.git
+  git clone https://github.com/brainartfu/react-api-simple.git
   ```
 
 
 - Jump into the directory
   ```bash
-  cd about-react-dummy-apis
+  cd react-api-simple
   ```
 
 - Install:
